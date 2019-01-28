@@ -41,12 +41,12 @@
 <distributionManagement>
     <repository>
         <id>deployment</id>
-        <name>Internal Release1</name>
+        <name>Internal Releases1</name>
         <url>http://3.93.13.15:8008/nexus/content/repositories/Release_ID/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
-        <name>Internal Release</name>
+        <name>Internal Releases</name>
         <url>http://3.93.13.15:8008/nexus/content/repositories/Release_ID1/</url>
     </snapshotRepository>
 </distributionManagement>
