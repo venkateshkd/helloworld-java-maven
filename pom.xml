@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>Internal Releases1</name>
-        <url>http://100.26.106.60:8008/nexus/content/repositories/venkatesh-1/</url>
+        <url>http://192.168.12.147:8086/repository/CICD_imple/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Releases</name>
-        <url>http://100.26.106.60:8008/nexus/content/repositories/ncodeit-1/</url>
+        <url>http://192.168.12.147:8086/repository/CICD_imp/</url>
     </snapshotRepository>
 </distributionManagement>
 
