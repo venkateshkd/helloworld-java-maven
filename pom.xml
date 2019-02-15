@@ -42,12 +42,12 @@
     <repository>
         <id>ven_user</id>
         <name>Internal Releases1</name>
-        <url>http://192.168.12.147:8086/repository/CICD_imple/</url>
+        <url>http://192.168.12.82:8081/repository/cicd_rel/</url>
     </repository>
     <snapshotRepository>
         <id>ven_user</id>
         <name>Internal Releases</name>
-        <url>http://192.168.12.147:8086/repository/CICD_imp/</url>
+        <url>http://192.168.12.82:8081/repository/cicd_sna/</url>
     </snapshotRepository>
 </distributionManagement>
 
