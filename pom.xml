@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>ven_user</id>
+        <id>venkat</id>
         <name>Internal Releases1</name>
-        <url>http://192.168.12.82:8081/repository/cicd_rel/</url>
+        <url>http://192.168.12.82:8081/repository/First_repo/</url>
     </repository>
     <snapshotRepository>
-        <id>ven_user</id>
+        <id>venkat</id>
         <name>Internal Releases</name>
-        <url>http://192.168.12.82:8081/repository/cicd_sna/</url>
+        <url>http://192.168.12.82:8081/repository/First_Snap/</url>
     </snapshotRepository>
 </distributionManagement>
 
